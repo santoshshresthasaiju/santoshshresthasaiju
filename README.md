@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/santosh-shrestha-saiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/santosh-shrestha-saiju" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23184022/santosh-shrestha?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23184022/santosh-shrestha?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100093368510815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100093368510815" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/santoshshersthasaiju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/santoshshersthasaiju/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube.com/@santoshshresthasaiju5909?si=72kbqynwvm-yqeu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@santoshshresthasaiju5909?si=72kbqynwvm-yqeu4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosh-shrestha-saiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-shrestha-saiju" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/23184022/santosh-shrestha?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/23184022/santosh-shrestha?tab=profile" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100093368510815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093368510815" height="30" width="40" /></a>
+<a href="https://instagram.com/santoshshersthasaiju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshshersthasaiju/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@santoshshresthasaiju5909?si=72kbqynwvm-yqeu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@santoshshresthasaiju5909?si=72kbqynwvm-yqeu4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
