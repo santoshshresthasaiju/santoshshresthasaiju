@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Django and React**
 
-- 👨‍💻 All of my projects are available at [https://santoshshresthasaiju.netlify.app](https://santoshshresthasaiju.netlify.app)
+- 👨‍💻 All of my projects are available at [https://santoshshrestha544.com.np](https://santoshshrestha544.com.np)
 
 - 💬 Ask me about **Django,react**
 
